@@ -1,0 +1,2 @@
+rootProject.name = "PreparationToInterview4"
+include ':app'
